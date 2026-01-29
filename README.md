@@ -79,7 +79,9 @@ Project Toolsz bisa dibuat tentunya tidak terlepas dari banyak pihak, berikut ri
 
 
 
-
+### Next Update
+- fix issue security 
+- continue development blueprint and pages
 
 
 ### <a href="https://github.com/fajriyan/strapi-5-compro/issues/new">📢Laporkan Masalah</a>
