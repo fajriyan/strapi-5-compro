@@ -1,4 +1,4 @@
-#  Project CMS Strapi (Company Profile)
+#  Project CMS Strapi (Company Profile) [Hold]
 
 CMS Strapi (Company Profile) merupakan portfolio sederhana untuk explorasi Content Management System menggunakan Platform **Strapi**, project ini di khususkan untuk membuat company profile sederhana yang berfokus untuk management pages dan management post sederhana. Prioritas di project ini adalah mempermudah User Awam untuk bisa mengoperasikan website dengan UI yang mudah tanpa melakukan coding sama sekali.
 <br>Project Start : 31/12/2025
